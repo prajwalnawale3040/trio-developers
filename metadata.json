@@ -1,0 +1,9 @@
+{
+  "name": "Trio Developers - Premium Bulk WhatsApp AI Messenger",
+  "description": "A high-end SaaS platform for bulk WhatsApp messaging with AI-powered content generation, campaign scheduling, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
