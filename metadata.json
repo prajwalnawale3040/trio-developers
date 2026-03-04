@@ -1,9 +1,4 @@
 {
-  "name": "Trio Developers - Premium Bulk WhatsApp AI Messenger",
-  "description": "A high-end SaaS platform for bulk WhatsApp messaging with AI-powered content generation, campaign scheduling, and advanced analytics.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
+  "name": "AceMock - AI Test Generator",
+  "description": "An intelligent mock test generator powered by Gemini 3 Flash. Generate quizzes on any topic, take them in real-time, and get instant feedback with explanations."
 }
